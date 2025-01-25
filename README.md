@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h3 align="left">Hi👋! My name is Owen and I'm a principiante</h3>
+<h3 align="left">Hi👋! My name is Owen and I'm a beginner </h3>
 
 ###
 
