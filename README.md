@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h3 align="left">Hi👋! My name is Owen and I'm a beginner </h3>
+<h3 align="left">Hi👋! My name is Owen and I'm a principiante</h3>
 
 ###
 
@@ -35,8 +35,6 @@ Here are some ideas to get you started:
 </div>
 
 ###
-
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/Owenerik/Owenerik/output/snake.svg" alt="Snake animation" />
 
